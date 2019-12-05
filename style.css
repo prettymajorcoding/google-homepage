@@ -1,0 +1,71 @@
+.navbar{
+    text-decoration: none;
+    list-style: none;
+    color: rgb(82, 82, 82);
+    padding: 5px 10px;
+    font-size: 14px;
+}
+.logo{
+    position: relative;
+    left: 500px;
+    top: 90px;
+    padding-top: 20px;    
+}
+#form{
+    position: relative;
+    top: 115px;
+    left: 390px;
+}
+input[type=text]{
+    border-radius: 25px;
+    width: 450px;
+    height: 40px;
+} 
+.buttons{
+    position: relative;
+    top: 70px;
+    right: 375px;
+    padding: 10px 10px;
+    background-color: #F6F6F6;
+    margin-left: 10px;
+    width: 115px;
+}
+#search{
+    position: relative;
+    left: 35px;
+}
+#mic{
+    position: relative;
+    right: 30px;
+}
+#sentence{
+    position: relative;
+    top: 185px;
+    left: 440px;
+    font-size: 14px;
+}
+#p-link{
+    text-decoration: none;
+}
+.navbar-bottom{
+    position: relative;
+    top: 250px;
+}
+.footer{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F2F2F2;
+}
+li{
+    float: left;
+}
+.footer-link{
+    display: block;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 14px;
+    color: rgb(104, 102, 102);
+}
